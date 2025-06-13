@@ -36,13 +36,6 @@ Automate the manual process of lead conversion to improve sales efficiency and r
 
 ---
 
-## 🖼️ Screenshots
-
-| Lead Record Before Conversion | Flow Diagram in Flow Builder | Converted Account, Contact & Opportunity |
-|-------------------------------|-------------------------------|------------------------------------------|
-| ![lead-object](./screenshots/lead-object.png) | ![flow-diagram](./screenshots/process-builder-flow.png) | ![converted-records](./screenshots/converted-records.png) |
-
----
 
 ## 🧠 Logic Behind the Flow
 
